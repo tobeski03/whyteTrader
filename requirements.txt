@@ -1,3 +1,0 @@
-pip
-flask
-metatrader5 == 5.0.37
